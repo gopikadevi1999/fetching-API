@@ -1,0 +1,29 @@
+.card-body {
+    background-color: rgb(252, 137, 80)!important;
+    color: white;
+    text-align: center;
+   
+}
+
+.card-header {
+    background-color: black!important;
+    color: white;
+    text-align: center;
+}
+
+.card-body img {
+    width: 300px !important;
+    height: 150px !important;
+}
+
+button {
+    border: 2px groove #ccc solid;
+    width: 70%;
+    color: white;
+    border-left: 2%;
+
+}
+
+.container {
+    background-color: rgb(72, 70, 70);
+}
